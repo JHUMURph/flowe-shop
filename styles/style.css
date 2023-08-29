@@ -166,18 +166,13 @@ span{
   gap: 10px;
 
 }
-/* deal css */
-/* .deals{
-  background-image: url("/Flower Asset/Rectangle 9.png");
-  margin: 75px;
-  background-repeat: no-repeat; */
 
 
 .our-deals{
 text-align: center;
 margin: 60px;
 padding: 75px 0;
-background-image: url("Flower Asset/Rectangle 9.png");
+background-image: url("/Flower Asset/Rectangle 9.png");
 background-repeat: no-repeat;
 width: 1440px;
 height: 449px;
