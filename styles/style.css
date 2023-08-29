@@ -45,3 +45,160 @@ border: 0;
 }
 /* end banner section */
 /* start main */
+main{
+  margin: 0 auto;
+  max-width: 1920px ;
+}
+
+.our-feature{
+ text-align: center;
+}
+.feature-header{
+  font-size: 40px;
+  font-weight: 800;
+  color: #272727;
+  margin-top: 200px;
+
+}
+.feature-details{
+  font-size: 18px;
+  font-weight: 400;
+  color: rgba(39, 39, 39, 0.60);
+  margin:24px 400px;
+
+}
+.feature-img{
+  display: flex;
+  margin: 100px;
+  align-items: center;
+  justify-content: space-between;
+  text-align: center;
+
+ 
+}
+.first-img{
+  width: 310px;
+  height: 428px;
+  border-radius: 300px 300px 0px 0px;
+  background: rgba(167, 33, 98, 0.15);
+  padding: 110px 76px 78px 0px;
+  margin-right: 24px;
+
+
+
+}
+.second-img{
+  width: 370px;
+  height: 370px;
+  border-radius: 300px 300px 0px 0px;
+  background: rgba(5, 151, 160, 0.15);
+  padding: 200px 46px 47px 51px;
+  margin-right: 24px;
+}
+.third-img{
+  width: 314px;
+  height: 471px;
+  border-radius: 300px 300px 0px 0px;
+  background: rgba(71, 125, 17, 0.15);
+  padding: 75px 67px 67px 77px;
+}
+a{
+  text-align: center;
+  color: #272727;
+  font-size: 24px;
+  font-weight: 700;
+}
+.feature-logo{
+  display: flex;
+  justify-content: space-around;
+  border-radius: 8px;
+  background: rgba(39, 39, 39, 0.05);
+  margin: 100px;
+  padding: 150px;
+}
+/* servise section */
+.all-servise{
+  text-align: center;
+  align-items: center;
+}
+.servise{
+  font-size: 24px;
+  font-weight: 600;
+  color: rgba(39, 39, 39, 0.80);
+  text-align: center;
+  margin-top: 24px;
+}
+/* sale css */
+.sale-container{
+  display: flex;
+  justify-content: center;
+  border-radius: 8px;
+  background: rgba(229, 84, 115, 0.05);
+  padding: 230px;
+  align-items: center;
+  margin: 100px 0;
+}
+.sale-header{
+  font-size: 40px;
+  font-weight: 800;
+  color: #272727;
+  margin:0 100px;
+  
+}
+span{
+  color: #E55473;
+}
+.sale-details{
+  font-size: 18px;
+  font-weight: 400;
+  color: rgba(39, 39, 39, 0.60);
+  margin: 24px 50px ;
+}
+.btn-secondary{
+  text-align: center;
+  margin:0 230px;
+}
+/* end sale section */
+/* instagram css */
+.instagram-image{
+  display: flex;
+  margin: 60px;
+  gap: 10px;
+
+}
+/* deal css */
+.our-deals{
+text-align: center;
+}
+.form{
+  width: 700px;
+  height: 64px;
+  border-radius: 8px;
+  background: #FFF;
+  border: none;
+  margin-right: 16px;
+  text-overflow: ellipsis;
+}
+/* end main section */
+/* footer css */
+.footer{
+  background: #111010;
+ color: rgba(255, 255, 255, 0.90);
+ text-align: center;
+ padding:110px ;
+}
+.footer-header{
+  font-size: 48px;
+  font-size: 800;
+  margin-bottom: 24px;
+}
+.footer-details{
+  font-size: 18px;
+  font-weight: 400;
+  margin-bottom: 32px;
+}
+.footer-reserved{
+  color: rgba(255, 255, 255, 0.40);
+  font-size: 16px;
+  font-weight: 400px;
+}
